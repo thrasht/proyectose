@@ -10,6 +10,6 @@ public class HostController {
 
     @GetMapping
     public String gateway() {
-        return "hola pto";
+        return "hola felipe montes";
     }
 }
